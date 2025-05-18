@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-specific output and cache directories
+cache_analysis/
+historical_stats/
+analysis_reports/
+
+# Project-specific log file
+analysis_tool.log
