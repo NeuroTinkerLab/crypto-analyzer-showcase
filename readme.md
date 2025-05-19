@@ -100,7 +100,7 @@ The structure of the JSON is designed to be parsed and interpreted by a Large La
 **Detailed System Prompt & LLM Operational Guidelines:**
 
 For an in-depth example of the system prompt and detailed operational guidelines that can be used to instruct an LLM to process these JSON files and act as an "Algorithmic Multi-Timeframe Financial Analyst for Cryptocurrencies," please refer to the file:
-➡️ **[LLM_SYSTEM_PROMPT_INSTRUCTIONS.md](LLM_SYSTEM_PROMPT_INSTRUCTIONS.md)** *(You will need to create this file and add your detailed LLM instructions to it).*
+➡️ **[LLM_SYSTEM_PROMPT_INSTRUCTIONS.md](LLM_SYSTEM_PROMPT_INSTRUCTIONS.md)** 
 
 This linked file (once you create it) should contain the full, detailed prompt structure that outlines the expected role, competencies, guiding principles, operational workflow, and risk management considerations for the LLM when analyzing the generated JSON data. Users are encouraged to adapt and refine these instructions based on the specific LLM they are using and their analytical goals.
 
